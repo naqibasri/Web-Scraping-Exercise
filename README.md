@@ -6,3 +6,5 @@ My First Web Scraping - Fake Python Job Site
 ***Python Libraries:*** Requests & BeautifulSoup
 
 ***Credit to:*** https://realpython.com/beautiful-soup-web-scraper-python/#toc
+
+***Reference:*** https://www.crummy.com/software/BeautifulSoup/bs4/doc/
